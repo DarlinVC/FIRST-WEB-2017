@@ -1,0 +1,65 @@
+.navbar {
+  background: #1f1d1d;
+}
+.navbar-brand:link,
+.navbar-brand:visited {
+  color: #26b8ee !important;
+}
+
+.navbar-brand:visited {
+  color: #26b8ee !important;
+}
+
+.navbar-brand:hover,
+.navbar-brand:active {
+  transition: 1s ease;
+  color: #318ef0 !important;
+}
+
+#navbar li a {
+  color: white;
+}
+
+#navbar li a:hover {
+  transition: 500ms ease;
+  color: #26b8ee;
+}
+
+.jumbotron {
+  color: white !important;
+  background-image: url("../img/7135.jpg");
+}
+.navbar-toggle {
+  background: white !important;
+}
+
+.panel-heading {
+  color: white !important;
+  background: #1f1d1d !important;
+  border-radius: 0;
+  text-align: center;
+}
+
+.panel {
+  border-radius: 0;
+  border: none;
+  box-shadow: 0 0 2px gray;
+}
+
+.form-control {
+  border-radius: 0;
+}
+
+.buscar {
+  background: #0f4e5e;
+  color: white;
+  transition: 0.5s ease-in-out;
+}
+
+.buscar:hover {
+  background: #0e4452;
+}
+
+#Registro:visited {
+  color: #318ef0 !important;
+}
